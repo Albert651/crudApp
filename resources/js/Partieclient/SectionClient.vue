@@ -17,7 +17,7 @@
               @click="goToAbout"
               class="bg-green-500 hover:bg-green-600 text-white font-medium py-3 px-12 rounded-full transition duration-300 cursor-pointer  pulse"
             >
-            Connexion
+            Connexion pour le client
             </button>
           </div>
         </div>
