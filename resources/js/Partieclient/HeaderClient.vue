@@ -54,7 +54,7 @@
           Bienvenies 
         </button>
         <RouterLink to="/pageAcceuil" class="bg-green-500 text-white border-none py-2 px-4 rounded cursor-pointer ms-2">
-          Connexion test test
+          Connexion
         </RouterLink>
       </div>
     </header>
