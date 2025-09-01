@@ -10,7 +10,7 @@
         <div class="w-full lg:w-1/2 flex flex-col justify-center space-y-6 pr-4">
           <div class="space-y-2">
             <h1 class="text-4xl lg:text-5xl font-bold text-gray-900 leading-tight slide-in-left">
-              Bienvenue sur le plateforme E-commerce
+              Bienvenue sur le plateforme E-commerce test test
             </h1>
           </div>
           
