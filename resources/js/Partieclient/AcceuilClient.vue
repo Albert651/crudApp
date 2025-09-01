@@ -12,9 +12,6 @@
             <h1 class="text-4xl lg:text-5xl font-bold text-gray-900 leading-tight slide-in-left">
               Bienvenue sur le plateforme E-commerce
             </h1>
-            <p class="text-lg text-gray-800 mt-4 slide-in-left" style="animation-delay: 0.3s">
-              Cliquer le bouton Connexion si vous avez continue
-            </p>
           </div>
           
           <div class="mt-8 slide-in-left" style="animation-delay: 0.6s">
